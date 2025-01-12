@@ -30,5 +30,10 @@
         "code": "MN 888",
         "name": "Theory ",
         "instructor": "Das"
+    },
+    {
+        "code": "q",
+        "name": "q",
+        "instructor": "q"
     }
 ]
