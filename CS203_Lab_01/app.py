@@ -7,7 +7,7 @@ from opentelemetry import trace, metrics
 from opentelemetry.sdk.metrics import MeterProvider
 from opentelemetry.sdk.resources import Resource
 from opentelemetry.sdk.trace import TracerProvider
-from opentelemetry.sdk.trace.export import BatchSpanProcessor
+from opentelemetry.sdk.trace.export import BatchSpanProcessor, ConsoleSpanExporter
 from opentelemetry.exporter.jaeger.thrift import JaegerExporter
 from opentelemetry.sdk.metrics.export import ConsoleMetricExporter, PeriodicExportingMetricReader
 from opentelemetry.instrumentation.flask import FlaskInstrumentor
@@ -50,6 +50,7 @@ resource = Resource.create({"service.name": "course-catalog-service"})
 trace.set_tracer_provider(TracerProvider(resource=resource))
 tracer = trace.get_tracer(__name__)
 
+# Jaeger Exporter Setup
 jaeger_exporter = JaegerExporter(
     agent_host_name="localhost",
     agent_port=6831,
@@ -57,8 +58,15 @@ jaeger_exporter = JaegerExporter(
 span_processor = BatchSpanProcessor(jaeger_exporter)
 trace.get_tracer_provider().add_span_processor(span_processor)
 
+# Console Span Exporter to print trace logs to the terminal
+console_span_exporter = ConsoleSpanExporter()
+console_span_processor = BatchSpanProcessor(console_span_exporter)
+trace.get_tracer_provider().add_span_processor(console_span_processor)
+
+# Flask Instrumentation
 FlaskInstrumentor().instrument_app(app)
 
+# Metrics Setup
 reader = PeriodicExportingMetricReader(ConsoleMetricExporter())
 metrics.set_meter_provider(MeterProvider(resource=resource, metric_readers=[reader]))
 meter = metrics.get_meter(__name__)
