@@ -117,9 +117,14 @@ def index():
             "message": "Index page rendered successfully."
         })
 
+        logger.info({
+            "event": "Index_page_rendered",
+            "user_ip": request.remote_addr,
+            "message": "Index page rendered successfully."
+        })
+
         processing_time = time.time() - start_time
         span.set_attribute("processing_time", processing_time)
-
         return render_template('index.html')
 
 
@@ -157,14 +162,21 @@ def add_course():
         route_request_counter.add(1, {"route": "/add_course", "method": request.method})
 
         if request.method == 'POST':
+            all_fields = ['code', 'name', 'instructor', 'semester', 'schedule', 'classroom', 'prerequisites', 'grading', 'description']
             required_fields = ['code', 'name', 'instructor']
-            course_data = {field: request.form.get(field) for field in required_fields}
-            missing_fields = [field for field, value in course_data.items() if not value]
+            course_data = {field: request.form.get(field) for field in all_fields}
+            missing_fields = [field for field, value in course_data.items() if not value and field in required_fields]
 
             if missing_fields:
                 error_counter.add(1, {"error_type": "missing_required_fields"})
                 span.set_attributes({
                     "error.missing_fields": missing_fields,
+                    "message": "User attempted to submit the form with missing required fields."
+                })
+
+                logger.error({
+                    "event": "Missing_required_fields",
+                    "missing_fields": missing_fields,
                     "message": "User attempted to submit the form with missing required fields."
                 })
 
@@ -177,10 +189,20 @@ def add_course():
                 "message": f"Course '{course_data['name']}' added successfully."
             })
 
+            logger.info({
+                "event": "Course_added",
+                "course_data": course_data,
+                "message": f"Course '{course_data['name']}' added successfully."
+            })
+
             flash(f"Course '{course_data['name']}' added successfully!", "success")
             return redirect(url_for('course_catalog'))
 
         span.set_attribute("message", "Add course form rendered successfully.")
+        logger.info({
+            "event": "Add_course_form_rendered",
+            "message": "Add course form rendered successfully."
+        })
         return render_template('add_course.html')
 
 
@@ -198,6 +220,13 @@ def course_details(code):
                 "error.message": f"No course found with code '{code}'.",
                 "message": "Course not found error encountered."
             })
+
+            logger.error({
+                "event": "Course_not_found",
+                "course_code": code,
+                "message": f"No course found with code '{code}'."
+            })
+
             flash(f"No course found with code '{code}'", "error")
             return redirect(url_for('course_catalog'))
 
@@ -207,7 +236,15 @@ def course_details(code):
             "message": "Course details rendered successfully."
         })
 
+        logger.info({
+            "event": "Course_details_rendered",
+            "course_code": code,
+            "course_name": course.get("name"),
+            "message": "Course details rendered successfully."
+        })
+
         return render_template('course_details.html', course=course)
+
 
 # Error Handling
 @app.errorhandler(404)
@@ -255,6 +292,7 @@ def handle_exception(error):
         error_message="Something went wrong.",
         description="Please try again later or contact support."
     ), 500
+
 
 # Main Entry Point
 if __name__ == "__main__":

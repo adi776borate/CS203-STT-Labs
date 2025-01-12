@@ -20,15 +20,5 @@
         "prerequisites": "Basic Python, Linux",
         "grading": "50% Assignment, 50% Quiz",
         "description": ""
-    },
-    {
-        "code": "OP 000",
-        "name": "ajrn",
-        "instructor": "aojn"
-    },
-    {
-        "code": "MN 888",
-        "name": "Theory ",
-        "instructor": "Das"
     }
 ]
