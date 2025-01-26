@@ -1,0 +1,202 @@
+[
+  {
+    "image": "\/data\/upload\/7\/c963672d-img_100.jpg",
+    "id": 14460,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2025-01-26T14:23:25.981219Z",
+    "updated_at": "2025-01-26T14:23:25.981219Z",
+    "lead_time": 3.74
+  },
+  {
+    "image": "\/data\/upload\/7\/867833b6-img_101.jpg",
+    "id": 14461,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2025-01-26T14:23:42.767953Z",
+    "updated_at": "2025-01-26T14:23:42.767953Z",
+    "lead_time": 16.442
+  },
+  {
+    "image": "\/data\/upload\/7\/cc5b60e1-img_102.jpg",
+    "id": 14462,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2025-01-26T14:23:59.843693Z",
+    "updated_at": "2025-01-26T14:23:59.843693Z",
+    "lead_time": 16.73
+  },
+  {
+    "image": "\/data\/upload\/7\/f0219a0a-img_103.jpg",
+    "id": 14463,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2025-01-26T14:24:06.064760Z",
+    "updated_at": "2025-01-26T14:24:06.064760Z",
+    "lead_time": 5.894
+  },
+  {
+    "image": "\/data\/upload\/7\/62aff572-img_104.jpg",
+    "id": 14464,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2025-01-26T14:24:21.060287Z",
+    "updated_at": "2025-01-26T14:24:21.060287Z",
+    "lead_time": 14.705
+  },
+  {
+    "image": "\/data\/upload\/7\/bba87fad-img_105.jpg",
+    "id": 14465,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2025-01-26T14:24:31.103284Z",
+    "updated_at": "2025-01-26T14:24:31.103284Z",
+    "lead_time": 9.688
+  },
+  {
+    "image": "\/data\/upload\/7\/090f369a-img_106.jpg",
+    "id": 14466,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2025-01-26T14:24:34.094407Z",
+    "updated_at": "2025-01-26T14:24:34.094407Z",
+    "lead_time": 2.659
+  },
+  {
+    "image": "\/data\/upload\/7\/1022cc43-img_107.jpg",
+    "id": 14467,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2025-01-26T14:24:41.174694Z",
+    "updated_at": "2025-01-26T14:24:41.174694Z",
+    "lead_time": 6.734
+  },
+  {
+    "image": "\/data\/upload\/7\/bcd5b8cb-img_108.jpg",
+    "id": 14468,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2025-01-26T14:24:57.014568Z",
+    "updated_at": "2025-01-26T14:24:57.014568Z",
+    "lead_time": 15.508
+  },
+  {
+    "image": "\/data\/upload\/7\/8972a938-img_109.jpg",
+    "id": 14469,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 116,
+    "created_at": "2025-01-26T14:25:02.379833Z",
+    "updated_at": "2025-01-26T14:25:02.379833Z",
+    "lead_time": 5.002
+  },
+  {
+    "image": "\/data\/upload\/7\/5d5f8dbd-img_110.jpg",
+    "id": 14470,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2025-01-26T14:25:08.296502Z",
+    "updated_at": "2025-01-26T14:25:08.296502Z",
+    "lead_time": 5.55
+  },
+  {
+    "image": "\/data\/upload\/7\/aa14cd4f-img_111.jpg",
+    "id": 14471,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 118,
+    "created_at": "2025-01-26T14:25:11.605269Z",
+    "updated_at": "2025-01-26T14:25:11.605269Z",
+    "lead_time": 2.948
+  },
+  {
+    "image": "\/data\/upload\/7\/faf427b8-img_112.jpg",
+    "id": 14472,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 119,
+    "created_at": "2025-01-26T14:25:16.184421Z",
+    "updated_at": "2025-01-26T14:25:16.184421Z",
+    "lead_time": 4.215
+  },
+  {
+    "image": "\/data\/upload\/7\/38d973e6-img_113.jpg",
+    "id": 14473,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 120,
+    "created_at": "2025-01-26T14:25:25.657735Z",
+    "updated_at": "2025-01-26T14:25:25.657735Z",
+    "lead_time": 9.114
+  },
+  {
+    "image": "\/data\/upload\/7\/fbf02861-img_114.jpg",
+    "id": 14474,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 121,
+    "created_at": "2025-01-26T14:25:29.279087Z",
+    "updated_at": "2025-01-26T14:25:29.279087Z",
+    "lead_time": 3.267
+  },
+  {
+    "image": "\/data\/upload\/7\/f340d94f-img_115.jpg",
+    "id": 14475,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 122,
+    "created_at": "2025-01-26T14:25:32.920790Z",
+    "updated_at": "2025-01-26T14:25:32.920790Z",
+    "lead_time": 3.299
+  },
+  {
+    "image": "\/data\/upload\/7\/150d0514-img_116.jpg",
+    "id": 14476,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 123,
+    "created_at": "2025-01-26T14:25:37.000844Z",
+    "updated_at": "2025-01-26T14:25:37.000844Z",
+    "lead_time": 3.724
+  },
+  {
+    "image": "\/data\/upload\/7\/4729de15-img_117.jpg",
+    "id": 14477,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 124,
+    "created_at": "2025-01-26T14:25:40.137956Z",
+    "updated_at": "2025-01-26T14:25:40.137956Z",
+    "lead_time": 2.789
+  },
+  {
+    "image": "\/data\/upload\/7\/5cde6f14-img_118.jpg",
+    "id": 14478,
+    "choice": "No Trucks",
+    "annotator": 1,
+    "annotation_id": 125,
+    "created_at": "2025-01-26T14:25:51.433677Z",
+    "updated_at": "2025-01-26T14:25:51.433677Z",
+    "lead_time": 10.952
+  },
+  {
+    "image": "\/data\/upload\/7\/41f06103-img_119.jpg",
+    "id": 14479,
+    "choice": "Trucks",
+    "annotator": 1,
+    "annotation_id": 126,
+    "created_at": "2025-01-26T14:25:55.361141Z",
+    "updated_at": "2025-01-26T14:25:55.361141Z",
+    "lead_time": 3.599
+  }
+]

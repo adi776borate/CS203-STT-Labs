@@ -1,0 +1,3886 @@
+[
+  {
+    "text": "रियल इस्टेट कंपनी गोदरेज प्रॉपर्टी, टाटा पावर और केमिकल कंपनी SRF के साथ IRCTC भी लार्जकैप कैटेगरी में शामिल हो सकती है।",
+    "id": 101,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "रियल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 12,
+        "text": "इस्टेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 18,
+        "text": "कंपनी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "text": "गोदरेज ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 34,
+        "text": "प्रॉपर्टी",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 36,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "टाटा ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "text": "पावर ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 49,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "text": "केमिकल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 62,
+        "text": "कंपनी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "text": "SRF ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 73,
+        "text": "साथ ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 79,
+        "text": "IRCTC ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "भी ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 91,
+        "text": "लार्जकैप ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 99,
+        "text": "कैटेगरी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 109,
+        "text": "शामिल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "हो ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 117,
+        "text": "सकती ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 119,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 1,
+    "created_at": "2025-01-26T12:39:39.690311Z",
+    "updated_at": "2025-01-26T12:39:39.690335Z",
+    "lead_time": 280.226
+  },
+  {
+    "text": "NSE पर 2,018 रुपए पर लिस्ट हुआ शेयरनेशनल स्टॉक एक्सचेंज (NSE) पर नायका का शेयर 2,018 रुपए पर लिस्ट हुआ और 2,248 रुपए का हाई भी बनाया।",
+    "id": 102,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "NSE ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "2,018 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "लिस्ट ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "हुआ ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 55,
+        "text": "शेयरनेशनल स्टॉक एक्सचेंज",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 57,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "NSE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 65,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 71,
+        "text": "नायका ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 74,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "text": "शेयर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 85,
+        "text": "2,018 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 90,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 93,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 99,
+        "text": "लिस्ट ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "text": "हुआ ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 106,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 106,
+        "end": 112,
+        "text": "2,248 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 117,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 120,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 124,
+        "text": "हाई ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "text": "भी ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 132,
+        "text": "बनाया",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 2,
+    "created_at": "2025-01-26T12:46:40.759573Z",
+    "updated_at": "2025-01-26T12:46:40.759608Z",
+    "lead_time": 420.532
+  },
+  {
+    "text": "एनटीए (National Testing Agency, NTA) नीट यूजी परीक्षा और नीट पीजी परीक्षा, दोनों का आयोजन करवाता है।",
+    "id": 103,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "एनटीए",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 7,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 37,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 30,
+        "text": "National Testing Agency",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 32,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "NTA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "text": "Testing",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "text": "National",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 30,
+        "text": "Agency",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 41,
+        "text": "नीट ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "text": "यूजी ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 54,
+        "text": "परीक्षा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 61,
+        "text": "नीट ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 66,
+        "text": "पीजी ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 73,
+        "text": "परीक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 75,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 81,
+        "text": "दोनों ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 84,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 90,
+        "text": "आयोजन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 97,
+        "text": "करवाता ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 99,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 3,
+    "created_at": "2025-01-26T12:50:56.828284Z",
+    "updated_at": "2025-01-26T12:50:56.828307Z",
+    "lead_time": 255.543
+  },
+  {
+    "text": "ICICI प्रूडेंशियल का इस शेयर में 6,518 करोड़ रुपए जबकि HDFC म्यूचुअल फंड का 5,595 करोड़ रुपए का निवेश है।",
+    "id": 104,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "ICICI ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 18,
+        "text": "प्रूडेंशियल ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 24,
+        "text": "इस ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "text": "शेयर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 33,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 39,
+        "text": "6,518 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "text": "करोड़ ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 49,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "text": "जबकि ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "text": "HDFC ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 68,
+        "text": "म्यूचुअल ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 72,
+        "text": "फंड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 81,
+        "text": "5,595 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 86,
+        "text": "करोड़ ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 91,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "text": "निवेश ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 102,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 103,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 4,
+    "created_at": "2025-01-26T12:52:40.334551Z",
+    "updated_at": "2025-01-26T12:52:40.334587Z",
+    "lead_time": 102.996
+  },
+  {
+    "text": "डेलॉयट के CEO पुनीत रंजन ने कहा कि FDI भारत के लिए अत्यंत महत्वपूर्ण है।",
+    "id": 105,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "डेलॉयट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "CEO ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "text": "पुनीत रंजन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 28,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "text": "कहा ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "text": "कि ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "text": "FDI ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "text": "भारत ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 47,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "text": "अत्यंत ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "text": "महत्वपूर्ण ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 72,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 5,
+    "created_at": "2025-01-26T12:54:28.600286Z",
+    "updated_at": "2025-01-26T12:54:28.600310Z",
+    "lead_time": 107.768
+  },
+  {
+    "text": "बढ़ने वाले प्रमुख स्टॉक में टाटा स्टील, NTPC, HDFC बैंक, HDFC, एक्सिस बैंक, TCS और टेक महिंद्रा हैं।",
+    "id": 106,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "बढ़ने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 17,
+        "text": "प्रमुख ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 23,
+        "text": "स्टॉक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 27,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 37,
+        "text": "टाटा स्टील",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 39,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "NTPC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 45,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "text": "HDFC बैंक",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 56,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 60,
+        "text": "HDFC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "text": "एक्सिस बैंक",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 78,
+        "text": "TCS",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 82,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 94,
+        "text": "टेक महिंद्रा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 99,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "बैंक",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "text": "वाले ",
+        "labels": [
+          "PART"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 6,
+    "created_at": "2025-01-26T12:59:25.585874Z",
+    "updated_at": "2025-01-26T12:59:25.585899Z",
+    "lead_time": 296.465
+  },
+  {
+    "text": "यह परीक्षा उत्तर प्रदेश बेसिक शिक्षा बोर्ड (UP Basic Shiksha Board) यानी यूपीबीईबी (UPBEB) द्वारा आयोजित की जाती है।",
+    "id": 107,
+    "label": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "यह ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 3,
+        "end": 11,
+        "text": "परीक्षा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 23,
+        "text": "उत्तर प्रदेश",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 42,
+        "text": "बेसिक शिक्षा बोर्ड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 29,
+        "text": "बेसिक",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 30,
+        "end": 36,
+        "text": "शिक्षा",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 42,
+        "text": "बोर्ड",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 44,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 66,
+        "text": "UP Basic Shiksha Board",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 60,
+        "text": "Shiksha",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 66,
+        "text": "Board",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "text": "यानी ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "text": "यूपीबीईबी ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 84,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 91,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 89,
+        "text": "UPBEB",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 98,
+        "text": "द्वारा ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 105,
+        "text": "आयोजित ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 108,
+        "text": "की ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 113,
+        "text": "जाती ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 115,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 7,
+    "created_at": "2025-01-26T13:13:55.013653Z",
+    "updated_at": "2025-01-26T13:13:55.013682Z",
+    "lead_time": 868.947
+  },
+  {
+    "text": "काउंसिल ऑफ आर्किटेक्चर (CoA) ने जून में होने वाली नेशनल एप्टीट्यूड टेस्ट इन आर्किटेक्चर (NATA) 2021 को फिलहाल टाल दिया है।",
+    "id": 108,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "काउंसिल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 11,
+        "text": "ऑफ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 23,
+        "text": "आर्किटेक्चर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 22,
+        "text": "काउंसिल ऑफ आर्किटेक्चर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 29,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 27,
+        "text": "CoA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 32,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "text": "जून ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 45,
+        "text": "होने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "text": "वाली ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 56,
+        "text": "नेशनल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "text": "एप्टीट्यूड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 73,
+        "text": "टेस्ट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 76,
+        "text": "इन ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 88,
+        "text": "आर्किटेक्चर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 89,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 95,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 93,
+        "text": "NATA",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 100,
+        "text": "2021 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 103,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 110,
+        "text": "फिलहाल ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 114,
+        "text": "टाल ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 119,
+        "text": "दिया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 121,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 122,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 72,
+        "text": "नेशनल एप्टीट्यूड टेस्ट",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2025-01-26T13:17:12.921592Z",
+    "updated_at": "2025-01-26T13:17:12.921619Z",
+    "lead_time": 197.368
+  },
+  {
+    "text": "SSO ID होना अनिवार्यकंप्यूटर अनुदेशक के पद पर आवेदन करने के लिए अभ्यर्थियों को ई-मित्र कियोस्क या जन सुविधा पोर्टल का उपयोग करना होगा।",
+    "id": 109,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "SSO ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "ID ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "होना ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 29,
+        "text": "अनिवार्यकंप्यूटर ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "text": "अनुदेशक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 40,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "पद ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "आवेदन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "text": "करने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 64,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 76,
+        "text": "अभ्यर्थियों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 86,
+        "text": "ई-मित्र",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 81,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 95,
+        "text": "कियोस्क ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "text": "या ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "जन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "text": "सुविधा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 115,
+        "text": "पोर्टल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 124,
+        "text": "उपयोग ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 129,
+        "text": "करना ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 133,
+        "text": "होगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 133,
+        "end": 134,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 9,
+    "created_at": "2025-01-26T13:19:19.716529Z",
+    "updated_at": "2025-01-26T13:19:19.716561Z",
+    "lead_time": 126.228
+  },
+  {
+    "text": "सेंट्रल बोर्ड ऑफ सेकंडरी एजुकेशन (CBSE) की बारहवीं की टर्म-I एग्जाम अपने निर्धारित परीक्षा कार्यक्रम के आधार पर जारी हैं।",
+    "id": 110,
+    "label": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "सेंट्रल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "text": "बोर्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 17,
+        "text": "ऑफ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 25,
+        "text": "सेकंडरी ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 33,
+        "text": "एजुकेशन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 34,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 40,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "text": "CBSE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 43,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "text": "बारहवीं ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 60,
+        "text": "टर्म-I",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 68,
+        "text": "एग्जाम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "text": "अपने ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 83,
+        "text": "निर्धारित ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 91,
+        "text": "परीक्षा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 101,
+        "text": "कार्यक्रम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 104,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 104,
+        "end": 109,
+        "text": "आधार ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 112,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 117,
+        "text": "जारी ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 120,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 121,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 59,
+        "text": "-",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 10,
+    "created_at": "2025-01-26T13:21:43.695393Z",
+    "updated_at": "2025-01-26T13:21:43.695419Z",
+    "lead_time": 143.346
+  },
+  {
+    "text": "मिड कैप में ABB, रुचि सोया, अडाणी पावर, इंडुरेंस, गुजरात गैस, अशोक लेलैंड, BHEL और ऑयल में तेजी रही।",
+    "id": 111,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "मिड ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "text": "कैप ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "text": "ABB",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 17,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "text": "रुचि सोया",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 38,
+        "text": "अडाणी पावर",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 48,
+        "text": "इंडुरेंस",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 60,
+        "text": "गुजरात गैस",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 73,
+        "text": "अशोक लेलैंड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 79,
+        "text": "BHEL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "ऑयल",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 96,
+        "text": "तेजी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 99,
+        "text": "रही",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 28,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 39,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 49,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 73,
+        "end": 74,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 11,
+    "created_at": "2025-01-26T13:25:22.156909Z",
+    "updated_at": "2025-01-26T13:25:22.156934Z",
+    "lead_time": 217.837
+  },
+  {
+    "text": "फ्यूचर ग्रुप की कंपनी फ्यूचर कूपन प्राइवेट लिमिटेड (FCPL) और फ्यूचर रिटेल लिमिटेड (FRL) दोंनों ने ये याचिका 3 जनवरी को दायर की थी।",
+    "id": 112,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "फ्यूचर ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "text": "ग्रुप ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "कंपनी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 29,
+        "text": "फ्यूचर ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "text": "कूपन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 43,
+        "text": "प्राइवेट ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 51,
+        "text": "लिमिटेड ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 58,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 52,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "FCPL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 81,
+        "text": "फ्यूचर रिटेल लिमिटेड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 88,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 86,
+        "text": "FRL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 98,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "ये ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 108,
+        "text": "याचिका ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 110,
+        "text": "3 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 116,
+        "text": "जनवरी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 118,
+        "text": "को",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 124,
+        "text": "दायर ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 124,
+        "end": 127,
+        "text": "की ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 129,
+        "text": "थी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 129,
+        "end": 130,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 50,
+        "text": "फ्यूचर कूपन प्राइवेट लिमिटेड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 95,
+        "text": "दोंनों ",
+        "labels": [
+          "ADJ"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2025-01-26T13:29:13.367005Z",
+    "updated_at": "2025-01-26T13:29:13.367034Z",
+    "lead_time": 230.632
+  },
+  {
+    "text": "नेशनल बोर्ड ऑफ एग्जामिनेशन (NBE) आज यानी बुधवार, 14 अप्रैल को नेशनल एलिजिबिलिटी कम एंट्रेंस एग्जाम (NEET 2021)- PG के लिए एडमिट कार्ड जारी करेगा।",
+    "id": 113,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "नेशनल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "text": "बोर्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 15,
+        "text": "ऑफ ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 27,
+        "text": "एग्जामिनेशन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 32,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "NBE",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "आज ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "text": "यानी ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 47,
+        "text": "बुधवार",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 48,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 49,
+        "end": 52,
+        "text": "14 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 59,
+        "text": "अप्रैल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 62,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 68,
+        "text": "नेशनल ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 80,
+        "text": "एलिजिबिलिटी ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "text": "कम ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 92,
+        "text": "एंट्रेंस ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 92,
+        "end": 99,
+        "text": "एग्जाम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 100,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 110,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 112,
+        "text": "- ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 109,
+        "text": "NEET 2021",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 115,
+        "text": "PG ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 122,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 128,
+        "text": "एडमिट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 134,
+        "text": "कार्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 139,
+        "text": "जारी ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 144,
+        "text": "करेगा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 144,
+        "end": 145,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 26,
+        "text": "नेशनल बोर्ड ऑफ एग्जामिनेशन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 98,
+        "text": "नेशनल एलिजिबिलिटी कम एंट्रेंस एग्जाम",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 13,
+    "created_at": "2025-01-26T13:33:03.113252Z",
+    "updated_at": "2025-01-26T13:33:03.113305Z",
+    "lead_time": 229.176
+  },
+  {
+    "text": "इंडियन ऑयल कॉर्पोरेशन (IOC), भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड (BPCL) और हिंदुस्तान पेट्रोलियम कॉर्पोरेशन लिमिटेड (HPCL) के अलावा ये 7 कंपनियां भी पेट्रोल और डीजल बेचेंगी।",
+    "id": 114,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "इंडियन ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "text": "ऑयल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 22,
+        "text": "कॉर्पोरेशन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "IOC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 28,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "text": "भारत ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "text": "पेट्रोलियम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "text": "कॉर्पोरेशन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 64,
+        "text": "लिमिटेड ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 65,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 71,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 69,
+        "text": "BPCL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 71,
+        "end": 74,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "text": "हिंदुस्तान ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 96,
+        "text": "पेट्रोलियम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 107,
+        "text": "कॉर्पोरेशन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 115,
+        "text": "लिमिटेड ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 116,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 122,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 120,
+        "text": "HPCL",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 125,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 131,
+        "text": "अलावा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 134,
+        "text": "ये ",
+        "labels": [
+          "PRON"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 136,
+        "text": "7 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 136,
+        "end": 145,
+        "text": "कंपनियां ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 145,
+        "end": 148,
+        "text": "भी ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 156,
+        "text": "पेट्रोल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 156,
+        "end": 159,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 159,
+        "end": 164,
+        "text": "डीजल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 171,
+        "text": "बेचेंगी",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 171,
+        "end": 172,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 21,
+        "text": "इंडियन ऑयल कॉर्पोरेशन",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 63,
+        "text": "भारत पेट्रोलियम कॉर्पोरेशन लिमिटेड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 95,
+        "text": "हिंदुस्तान पेट्रोलियम",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 14,
+    "created_at": "2025-01-26T13:36:50.054273Z",
+    "updated_at": "2025-01-26T13:36:50.054307Z",
+    "lead_time": 226.16
+  },
+  {
+    "text": "भारतीय जीवन बीमा निगम (LIC) के IPO मैनेजमेंट का काम हासिल करने के लिए मर्चेंट बैंकरों में तगड़ी होड़ है।",
+    "id": 115,
+    "label": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "भारतीय ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "जीवन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "बीमा ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "text": "निगम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": ")",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 26,
+        "text": "LIC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "text": "IPO ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 45,
+        "text": "मैनेजमेंट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "text": "काम ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "text": "हासिल ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "text": "करने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 66,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 70,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 78,
+        "text": "मर्चेंट ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 78,
+        "end": 86,
+        "text": "बैंकरों ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 86,
+        "end": 90,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 96,
+        "text": "तगड़ी ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 101,
+        "text": "होड़ ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 103,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 104,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 21,
+        "text": "भारतीय जीवन बीमा निगम",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 15,
+    "created_at": "2025-01-26T13:39:05.482708Z",
+    "updated_at": "2025-01-26T13:39:05.482742Z",
+    "lead_time": 134.682
+  },
+  {
+    "text": "चीन की एक्सपेंग मोटर्स (Xpeng Motors) ने ऐसी ही एक इलेक्ट्रिक कार को तैयार किया है।",
+    "id": 116,
+    "label": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "चीन ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 7,
+        "text": "की ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 22,
+        "text": "एक्सपेंग मोटर्स",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 23,
+        "end": 24,
+        "text": "(",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 38,
+        "text": ") ",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 36,
+        "text": "Xpeng Motors",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "text": "ने ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "text": "ऐसी ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "ही ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 51,
+        "text": "एक ",
+        "labels": [
+          "DET"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 62,
+        "text": "इलेक्ट्रिक ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 66,
+        "text": "कार ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 69,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 75,
+        "text": "तैयार ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 80,
+        "text": "किया ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 82,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 83,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 16,
+    "created_at": "2025-01-26T13:40:41.556550Z",
+    "updated_at": "2025-01-26T13:40:41.556598Z",
+    "lead_time": 95.347
+  },
+  {
+    "text": "बौल्ट ऑडियो प्रो बास कर्व X इयरफोन को वाटर और स्टेट रेजिस्टेंस बनाने के लिए IPX5 रेटिंग दी गई है।",
+    "id": 117,
+    "label": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "बौल्ट ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 6,
+        "end": 12,
+        "text": "ऑडियो ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "text": "प्रो ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 20,
+        "text": "बास",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "text": "कर्व ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 27,
+        "text": "X",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 35,
+        "text": "इयरफोन ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 38,
+        "text": "को ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 38,
+        "end": 43,
+        "text": "वाटर ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 46,
+        "text": "और ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 52,
+        "text": "स्टेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 63,
+        "text": "रेजिस्टेंस ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 69,
+        "text": "बनाने ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 72,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "लिए ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 81,
+        "text": "IPX5 ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 88,
+        "text": "रेटिंग ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 91,
+        "text": "दी ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 91,
+        "end": 94,
+        "text": "गई ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 96,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 97,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 27,
+        "text": "बौल्ट ऑडियो प्रो बास कर्व X",
+        "labels": [
+          "PROPN"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 17,
+    "created_at": "2025-01-26T13:42:53.509561Z",
+    "updated_at": "2025-01-26T13:42:53.509595Z",
+    "lead_time": 131.255
+  },
+  {
+    "text": "जैसे SBI, HDFC, ICICI या दूसरे बैंक कार्ड पर इंस्टेंट डिस्काउंट तो नहीं मिल रहा।",
+    "id": 118,
+    "label": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "जैसे ",
+        "labels": [
+          "ADV"
+        ]
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "text": "SBI",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 9,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "text": "HDFC",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 15,
+        "text": ",",
+        "labels": [
+          "X"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 22,
+        "text": "ICICI ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 22,
+        "end": 25,
+        "text": "या ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 25,
+        "end": 31,
+        "text": "दूसरे ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "बैंक ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "कार्ड ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 45,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 54,
+        "text": "इंस्टेंट ",
+        "labels": [
+          "ADJ"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 64,
+        "text": "डिस्काउंट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "तो ",
+        "labels": [
+          "PART"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "text": "नहीं ",
+        "labels": [
+          "PART_NEG"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "text": "मिल ",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "text": "रहा",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 79,
+        "end": 80,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 18,
+    "created_at": "2025-01-26T13:46:50.060355Z",
+    "updated_at": "2025-01-26T13:46:50.060397Z",
+    "lead_time": 127.28
+  },
+  {
+    "text": "अरविंद कृष्णाअरविंद कृष्णा साल 2020 से IBM में CEO के पद पर हैं।",
+    "id": 119,
+    "label": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "अरविंद कृष्णा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 26,
+        "text": "अरविंद कृष्णा",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "text": "साल ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 36,
+        "text": "2020 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "text": "से ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "IBM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 47,
+        "text": "में ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 51,
+        "text": "CEO ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 54,
+        "text": "के ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "text": "पद ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "text": "पर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 63,
+        "text": "हैं",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 64,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 19,
+    "created_at": "2025-01-26T13:48:19.954724Z",
+    "updated_at": "2025-01-26T13:48:19.954749Z",
+    "lead_time": 81.976
+  },
+  {
+    "text": "HDFC म्यूचुअल फंड का असेट अंडर मैनेजमेंट यानी AUM 435 लाख करोड़ रुपए है।",
+    "id": 120,
+    "label": [
+      {
+        "start": 0,
+        "end": 17,
+        "text": "HDFC म्यूचुअल फंड",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "का ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "text": "असेट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 31,
+        "text": "अंडर ",
+        "labels": [
+          "ADP"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 41,
+        "text": "मैनेजमेंट ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 46,
+        "text": "यानी ",
+        "labels": [
+          "CONJ"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 50,
+        "text": "AUM ",
+        "labels": [
+          "PROPN"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "text": "435 ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "text": "लाख ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "text": "करोड़ ",
+        "labels": [
+          "NUM"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 68,
+        "text": "रुपए ",
+        "labels": [
+          "NOUN"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 70,
+        "text": "है",
+        "labels": [
+          "VERB"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 71,
+        "text": "।",
+        "labels": [
+          "X"
+        ]
+      }
+    ],
+    "annotator": 1,
+    "annotation_id": 20,
+    "created_at": "2025-01-26T13:49:46.743685Z",
+    "updated_at": "2025-01-26T13:49:46.743710Z",
+    "lead_time": 78.067
+  }
+]
