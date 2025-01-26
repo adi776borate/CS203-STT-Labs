@@ -1105,13 +1105,21 @@
         "labels": [
           "PART"
         ]
+      },
+      {
+        "start": 60,
+        "end": 62,
+        "text": ", ",
+        "labels": [
+          "X"
+        ]
       }
     ],
     "annotator": 1,
     "annotation_id": 6,
     "created_at": "2025-01-26T12:59:25.585874Z",
-    "updated_at": "2025-01-26T12:59:25.585899Z",
-    "lead_time": 296.465
+    "updated_at": "2025-01-26T16:30:22.815828Z",
+    "lead_time": 314.94599999999997
   },
   {
     "text": "यह परीक्षा उत्तर प्रदेश बेसिक शिक्षा बोर्ड (UP Basic Shiksha Board) यानी यूपीबीईबी (UPBEB) द्वारा आयोजित की जाती है।",
