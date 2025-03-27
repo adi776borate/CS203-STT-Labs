@@ -1,0 +1,56 @@
+version: '3.9'
+
+services:
+  # Backend (Task 2)
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "9567:9567"
+    networks:
+      - app-network
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    image: fastapi:2
+
+  # Elasticsearch (Task 3)
+  elasticsearch:
+    build:
+      context: ./elasticsearch
+      dockerfile: Dockerfile
+    image: elasticsearch
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    networks:
+      - app-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9200"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  # Setup
+  setup:
+    build:
+      context: ./setup
+      dockerfile: Dockerfile
+    image: setup
+    networks:
+      - app-network
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  esdata:
+    driver: local
