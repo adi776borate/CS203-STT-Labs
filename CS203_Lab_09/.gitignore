@@ -1,0 +1,4 @@
+TA-Lab09/
+.env
+__pycache__/
+*.py[cod]
