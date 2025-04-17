@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  # Frontend (Task 1)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "9567:9567"
+    image: fastapi:1
+    environment:
+      - BACKEND_URL=http://10.160.0.8:9567

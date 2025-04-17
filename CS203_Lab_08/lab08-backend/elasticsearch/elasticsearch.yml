@@ -1,0 +1,7 @@
+cluster.name: "docker-cluster"
+network.host: 0.0.0.0
+discovery.type: single-node
+
+# Path settings for data persistence
+path.data: /usr/share/elasticsearch/data
+path.logs: /usr/share/elasticsearch/logs

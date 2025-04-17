@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Elasticsearch Interface</title>
+</head>
+<body>
+    <h1>Elasticsearch Document Manager</h1>
+    
+    <h2>Search Document</h2>
+    <form action="/get" method="post">
+        <input type="text" name="query" placeholder="Enter search query" required>
+        <button type="submit">Get</button>
+    </form>
+    
+    <h2>Insert Document</h2>
+    <form action="/insert" method="post">
+        <textarea name="content" rows="5" cols="50" placeholder="Enter document content" required></textarea><br>
+        <button type="submit">Insert</button>
+    </form>
+    
+    <div id="result" style="margin-top: 20px;">
+        <h2>Result:</h2>
+        {% if result %}
+            {% if result.error %}
+                <p style="color: red;">Error: {{ result.error }}</p>
+            {% elif result.message %}
+                <p>{{ result.message }}</p>
+            {% else %}
+                <div>
+                    <p><strong>Document ID:</strong> {{ result.id }}</p>
+                    <p><strong>Score:</strong> {{ result.score }}</p>
+                    <p><strong>Content:</strong> {{ result.content }}</p>
+                </div>
+            {% endif %}
+        {% else %}
+            <p>No results to display.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

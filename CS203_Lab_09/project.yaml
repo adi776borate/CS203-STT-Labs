@@ -1,0 +1,21 @@
+kind: project
+metadata:
+  name: lab9-breast-cancer-adibo
+spec:
+  conda: ''
+  source: ''
+  functions:
+  - url: data_prep.py
+    name: load-breast-cancer-data
+    kind: job
+    image: mlrun/mlrun
+  - url: trainer.py
+    name: trainer
+    kind: job
+    image: mlrun/mlrun
+    handler: train_model
+  - url: serving.py
+    name: serving
+    kind: serving
+    image: mlrun/mlrun
+  desired_state: online
